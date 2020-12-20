@@ -55,8 +55,8 @@
   <nav class="container flex flex-wrap items-center justify-between mx-auto">
     <div class="flex flex-wrap items-center flex-shrink-0 order-1 text-orange">
       <a rel="prefetch" href="/" class="flex py-2 my-1">
-        <img class="h-6 mx-2" src="/logo.png" alt="Home" />
-        <span class="font-bold ">Hopyshopy</span>
+        <img class="h-6 mx-2" src="https://mudicart.com/wp-content/uploads/2020/07/mudi-shop-logo-copy.png" alt="Home" />
+        <span class="font-bold ">Mudicart</span>
       </a>
     </div>
     <div class="order-4 w-full px-2 md:w-1/2 md:mb-0 md:pr-6 md:order-3">

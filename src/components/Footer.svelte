@@ -7,9 +7,9 @@
         <i class="fa fa-star" alt />
         <span class="underline ">@github</span>
       </a>
-      <a href="https://www.litekart.in" target="blank">
+      <a href="https://www.mudicart.com" target="blank">
         <i class="fa fa-heart" alt />
-        <span class="underline ">litekart</span>
+        <span class="underline ">Mudicart</span>
       </a>
     </div>
   </div>

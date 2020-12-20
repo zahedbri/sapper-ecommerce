@@ -27,11 +27,14 @@
     "url": "https://github.com/itswadesh/sapper-ecommerce/issues"
   },
   "dependencies": {
+    "algoliasearch": "^4.8.3",
     "compression": "^1.7.1",
+    "dotenv": "^8.2.0",
     "http-proxy-middleware": "^1.0.3",
+    "instantsearch.js": "^4.9.2",
+    "netlify": "^6.0.6",
     "node-fetch": "^2.6.1",
     "polka": "0.5.2",
-    "dotenv": "^8.2.0",
     "sirv": "^0.4.0"
   },
   "devDependencies": {
